@@ -1,0 +1,4 @@
+configs_folder: "airvpn-configs/"
+airvpn_dns_ip: "10.128.0.1"
+check_internet_website: "www.google.com"
+wg_interface_name: "airvpn"
